@@ -1,0 +1,19 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/iblog",
+        "prod_uri": "mysql://root:@localhost/iblog",
+        "fb_url": "https://fb.com/iBlog",
+        "tw_url":"https://twitter.com/iBlog",
+        "git_url":"https://github.com/iBlog",
+        "gmail-user":"sg9450278@gmail.com",
+        "gmail-password":"9450278176",
+        "blog_name": "iBlog",
+        "tag_line": "Heaven for Programmer",
+        "about_page": "Hi, I am Sourabh Gautam, I Create iBlog.com website for programmers to read blog and learn new languages and so on.",
+        "no_of_posts": 2,
+        "admin_user": "Sourabh",
+        "admin_password": "098765432110",
+        "upload_location": "C:\\Users\\vanda\\OneDrive\\Documents\\Flask\\static"
+    }
+}
